@@ -158,8 +158,8 @@
 			position: fixed;
 			top: 10px;
 			left: 25px; /* El icono burger también a la izquierda */
-			
 			z-index: 100;
+			background-color:#ff
 		}
 	}
 	
